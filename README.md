@@ -6,7 +6,7 @@ Soy amante de los datos desde siempre, llevo analizando datos desde hace más de
 En el 2022 terminé mi licenciatura en Geoquímica, donde los últimos años de carrera e incluido mi TFG, fueron de analizar el comportamiento de elementos químicos, sí, análisis de datos. En esa encrucijada empecé a investigar más sobre el mundo de los datos, donde realicé dos Google Career, de Data Analysis y Business Intelligence, innumerables cursos de herramientas para el análisis de datos y un Bootcamp de Data Science & IA. Con la finalidad de aprender sobre la toma de decisiones y los tipos de análisis en base a datos, realizando diversos proyectos para afianzar todo este conocimiento adquirido, el cual podrás ver aquí, en mi perfil.
 
 ## Portafolio personal:
-[![Portfolio](https://img.shields.io/badge/Novy_Pro-Alfredo_Enrique_Blanco_Bifano-000000?style=for-the-badge&logo=file&logoColor=black&labelColor=ffffff)](https://alfredoblancobifano.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Alfredo_Blanco_Bifano-000000?style=for-the-badge&logo=file&logoColor=black&labelColor=ffffff)](https://alfredoblancobifano.vercel.app)
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
