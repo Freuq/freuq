@@ -9,13 +9,22 @@ En el 2022 terminé mi licenciatura en Geoquímica, donde los últimos años de 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Alfredo_Blanco_Bifano-000000?style=for-the-badge&logo=file&logoColor=black&labelColor=ffffff)](https://alfredoblancobifano.vercel.app)
 
 ## Tecnologías:
-[![](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)]()
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
-</br>
+<p align="left"> <img src="https://cdn.simpleicons.org/python/3776AB" width="40" />
+<img src="https://cdn.simpleicons.org/r/276DC3" width="40" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/tableau-icon.svg" width="40" />
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"  width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="40" />
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" />
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40" />
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" />
+<img src="https://cdn.simpleicons.org/git/F05032" width="40" />
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" />
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="40" />
+
+
 
 ## Perfiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfredo_Blanco_Bifano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/freuq)
