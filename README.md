@@ -9,21 +9,17 @@ En el 2022 terminé mi licenciatura en Geoquímica, donde los últimos años de 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Alfredo_Blanco_Bifano-000000?style=for-the-badge&logo=file&logoColor=black&labelColor=ffffff)](https://alfredoblancobifano.vercel.app)
 
 ## Tecnologías:
-[![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-</br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
+[![](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)]()
-</br>
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
-</br>
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
+</br>
 
 ## Perfiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfredo_Blanco_Bifano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/freuq)
-</br>
 [![Kaggle](https://img.shields.io/badge/Kaggle-Alfredo_Blanco_Bifano-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=101010)](https://www.kaggle.com/alfreuq)
-</br>
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-Alfredo_Blanco_Bifano-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)](https://public.tableau.com/app/profile/alfreuq/vizzes)
 </br>
 
