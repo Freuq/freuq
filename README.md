@@ -22,7 +22,6 @@ En el 2022 terminé mi licenciatura en Geoquímica, donde los últimos años de 
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" />
 <img src="https://cdn.simpleicons.org/git/F05032" width="40" />
 <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" />
-<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="40" />
 
 
 
